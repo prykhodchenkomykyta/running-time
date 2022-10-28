@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"let"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"my",
+				"myInput"
+			],
+			[
+				"m",
+				"myDropdown"
+			],
+			[
+				"propNames",
+				"propNames.forEach"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"spae-",
+				"space-between\tjustify-content"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+			"clean",
+			"clear",
+			"npm run cli"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Vlad/Desktop/portfolio/Dashboard/style.css",
+		"/C/Users/Vlad/Desktop/portfolio/Dashboard/index.html",
+		"/C/Users/Vlad/Desktop/portfolio/Dashboard/index.js",
+		"/C/Users/Vlad/Desktop/portfolio/Node/global.js",
+		"/C/Users/Vlad/Desktop/portfolio/Node/test.js",
+		"/C/Users/Vlad/Desktop/portfolio/Node/modules.js",
+		"/C/Users/Vlad/Desktop/portfolio/Snippet/snippets.js",
+		"/C/Users/Vlad/Desktop/portfolio/Git/readme.md",
+		"/C/Users/Vlad/Desktop/portfolio/Git/script.js",
+		"/C/Users/Vlad/Desktop/portfolio/Git/.gitignore",
+		"/C/Users/Vlad/Desktop/portfolio/Git/index.html",
+		"/C/Users/Vlad/Desktop/portfolio/Webpack/src/sass/main.scss",
+		"/C/Users/Vlad/Desktop/portfolio/Webpack/src/index.js",
+		"/C/Users/Vlad/Desktop/portfolio/Webpack/src/index.html",
+		"/C/Users/Vlad/Desktop/portfolio/Webpack/dist/index.html",
+		"/C/Users/Vlad/Desktop/portfolio/WebpackApp/src/js/hello.js",
+		"/C/Users/Vlad/Desktop/portfolio/WebpackApp/webpack.config.js",
+		"/C/Users/Vlad/Desktop/portfolio/WebpackApp/src/index.js",
+		"/C/Users/Vlad/Desktop/portfolio/WebpackApp/package.json",
+		"/C/Users/Vlad/Desktop/portfolio/WebpackApp/dist/index.html",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Vlad/Desktop/portfolio/Template/script.js",
+		"/C/Users/Vlad/Desktop/portfolio/Template/index.html",
+		"/C/Users/Vlad/Desktop/go/css/style.css",
+		"/C/Users/Vlad/Desktop/go/index.html",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Vlad/Desktop/project/index.html",
+		"/C/Users/Vlad/Desktop/project/primer.html",
+		"/C/Users/Vlad/Desktop/project/second.html",
+		"/C/Users/Vlad/Desktop/project/third.html",
+		"/C/Users/Vlad/Desktop/project/style.css",
+		"/C/Users/Vlad/Desktop/project/script.js",
+		"/C/Users/Vlad/Desktop/project/jjj.html",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/Vlad/Desktop/index.js",
+		"/C/Users/Vlad/AppData/Roaming/.minecraft/TempOptifineStore-1.0.json",
+		"/C/Users/Vlad/Desktop/burger.html",
+		"/C/Users/Vlad/Desktop/animation/index.html",
+		"/C/Users/Vlad/Desktop/pixi/src/app.js",
+		"/C/Users/Vlad/Desktop/pixi/package.json",
+		"/C/Users/Vlad/Desktop/pixi/index.html",
+		"/C/Users/Vlad/Desktop/pixi/src/js/unicorns.js",
+		"/C/Users/Vlad/Desktop/pixi/src/js/typography.scss",
+		"/C/Users/Vlad/Desktop/pixi/src/scss/typography.scss",
+		"/C/Users/Vlad/Desktop/pixi/webpack.config.js",
+		"/C/Users/Vlad/Desktop/pixi/src/scss/base.scss",
+		"/C/Users/Vlad/Desktop/pixi/src/index.js",
+		"/C/Users/Vlad/Desktop/pixi/src/js/rainbow.js",
+		"/C/Users/Vlad/Desktop/sass.html",
+		"/C/Users/Vlad/AppData/Roaming/.minecraft/launcher_profiles.json",
+		"/C/Users/Vlad/Desktop/lesson_6/application/index.js",
+		"/C/Users/Vlad/Desktop/lesson_6/application/DecoratorExample/index.js",
+		"/C/Users/Vlad/Desktop/lesson_6/application/DecoratorExample/Notifier.js",
+		"/C/Users/Vlad/Desktop/lesson_6/application/DecoratorExample/baseDecorator.js",
+		"/C/Users/Vlad/Desktop/lesson_6/application/decorator/basicUsage_es6.js",
+		"/C/Users/Vlad/Desktop/lesson_6/application/decorator/index.js",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/classworks/singleton.js",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/application/imports.js",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/classworks/objectfreeze.js",
+		"/C/Users/Vlad/Desktop/zx/learning/index.html",
+		"/C/Users/Vlad/Desktop/zx/learning/singleton.js",
+		"/C/Users/Vlad/Desktop/zx/learning/freeze.js",
+		"/C/Users/Vlad/Desktop/zx/learning/server.js",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/application/singleton/new-singleton.js",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/application/singleton/object_freeze.js",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/application/index.js",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/public/index.html",
+		"/C/Users/Vlad/Desktop/zx/lesson_3/application/modules/manyExports.js",
+		"/C/Users/Vlad/Desktop/Новая папка (2)/learning/package.json",
+		"/C/Users/Vlad/Desktop/Новая папка (2)/learning/ls2.js",
+		"/C/Users/Vlad/Desktop/Новая папка (2)/learning/index.html",
+		"/C/Users/Vlad/Desktop/Новая папка (2)/learning/ls1.js",
+		"/C/Users/Vlad/Desktop/lesson-1/public/js/es15/4.Literals.js",
+		"/C/Users/Vlad/Desktop/lesson-1/homeworks/cw_task1.js",
+		"/C/Users/Vlad/Desktop/lesson1/index.html",
+		"/C/Users/Vlad/Desktop/bootsite/index.html",
+		"/C/Users/Vlad/Desktop/bootsite/css/style.css",
+		"/C/Users/Vlad/Downloads/Test/index.html",
+		"/C/Users/Vlad/Desktop/converter.html",
+		"/C/Users/Vlad/Desktop/bootsite/img/mdb-email.png",
+		"/C/Users/Vlad/Desktop/demo.html",
+		"/C/Users/Vlad/Desktop/index.html",
+		"/E/deck/progr/Verstka/Tran/main.css",
+		"/E/deck/progr/Verstka/Tran/index.html",
+		"/E/deck/progr/Verstka/Tran/index.css",
+		"/C/Users/Vlad/Desktop/resume/index.html",
+		"/C/Users/Vlad/Desktop/Verstka/style.css",
+		"/C/Users/Vlad/Desktop/Verstka/deildash.github.io/src/index.js",
+		"/C/Users/Vlad/Desktop/Verstka/deildash.github.io/index.html",
+		"/C/Users/Vlad/Desktop/Verstka/deildash.github.io/webpack.config.js",
+		"/C/Users/Vlad/Desktop/Verstka/deildash.github.io/README.md",
+		"/C/Users/Vlad/Desktop/Verstka/index.html",
+		"/C/Users/Vlad/Desktop/Verstka/deildash.github.io/package.json",
+		"/C/Users/Vlad/Desktop/deildash.github.io/index.html",
+		"/C/Users/Vlad/Desktop/deildash.github.io/package.json",
+		"/C/Users/Vlad/Desktop/nenet/nenet.html",
+		"/C/Users/Vlad/Desktop/nenet/index.html",
+		"/C/Users/Vlad/Desktop/qw/stack/404.php",
+		"/C/Users/Vlad/Desktop/err404/www/css/error404.css",
+		"/C/Users/Vlad/Desktop/err404/www/error404.html",
+		"/C/Users/Vlad/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Vlad/Downloads/contr.json",
+		"/C/Users/Vlad/AppData/Local/Temp/fz3temp-2/style-new.css",
+		"/C/Users/Vlad/Downloads/contr (2).json",
+		"/C/Users/Vlad/Downloads/main.css",
+		"/C/Users/Vlad/Desktop/bb.html",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/untitled.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src\\App.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
